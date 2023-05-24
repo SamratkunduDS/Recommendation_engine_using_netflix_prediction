@@ -6,3 +6,5 @@ After creating the new column named movie id. I simple removed the null values.
 But then again i had to go through the reviews that the customer made. And i simply created a bench mark. As i do not want to recommend the low rated movie to the viewers.
 After creating the benchmark I simply dropped those values which are not fulfilling the bench mark.
 After that my model was ready to perform and I simply converted it into pivot table and applied SVD algorithm to continue training the model and predicting it.
+## link of the file
+https://drive.google.com/file/d/1cwC0pWb0jPwtsAQGyLjpKQDJUKqOZR-I/view?usp=drive_link
